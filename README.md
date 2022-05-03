@@ -1,1 +1,3 @@
-# burger_paradise_site
+# Burger Paradise
+
+- An online fast food ordering website
